@@ -27,8 +27,7 @@
 #### #1 [ML] Complete the learning path : https://developers.google.com/codelabs/tensorflow-1-helloworld and add the details in the Github repo
 > - Completion Badge
 > - Completion Screenshot
- Learning
-Completed Learning Activities across Google's developer ecosystem
+Tensorflow-1-helloworld
 ![image](https://github.com/user-attachments/assets/342db993-1d8e-408b-ad92-307bd8657c83)
 ***
 
